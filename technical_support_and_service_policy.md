@@ -8,7 +8,7 @@ We believe in direct, competent support. When you contact us, you are not routed
 All support requests must be initiated via our digital channels to ensure proper logging and tracking.
 
 * **Primary Channel:** `support@northwestintelligence.com`
-* **Standard Service Hours:** Monday - Friday, 8:00 AM - 8:00 PM PST
+* **Standard Service Hours:** Monday - Friday.
 * **Response Time Objective:** We aim to acknowledge and triage all tickets within **2 business days**. Complex resolutions or code-level fixes are generally deployed during our evening maintenance window (6:00 PM - 9:00 PM PST).
 
 ### 2. Issue Severity & Prioritization
@@ -22,7 +22,7 @@ Please categorize your request to help us triage effectively:
 | **P3: Normal** | **General Inquiry.** How-to questions, minor bugs, or account settings. | **Within 2 Business Days** |
 | **P4: Low** | **Feedback.** Feature requests or cosmetic tweaks. | **Review Weekly** |
 
-*Note: Please plan your proposal timelines accordingly. We recommend finalizing AI-assisted drafts at least 2 business days prior to your submission deadline to account for any potential technical latency.*
+*Note: Please plan your proposal timelines accordingly. We recommend finalizing AI-assisted drafts at least **2 business days** prior to your submission deadline to account for any potential technical latency.*
 
 ### 3. Emergency Protocol
 
