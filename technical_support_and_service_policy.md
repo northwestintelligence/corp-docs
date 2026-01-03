@@ -8,7 +8,7 @@ We believe in direct, competent support. When you contact us, you are not routed
 All support requests must be initiated via our digital channels to ensure proper logging and tracking.
 
 * **Primary Channel:** `support@northwestintelligence.com`
-* **Standard Service Hours:** Monday - Friday.
+* **Standard Service Hours:** Monday - Friday, excluding major U.S. holidays.
 * **Response Time Objective:** We aim to acknowledge and triage all tickets within **2 business days**. Complex resolutions or code-level fixes are generally deployed during our evening maintenance window (6:00 PM - 9:00 PM PST).
 
 ### 2. Issue Severity & Prioritization
